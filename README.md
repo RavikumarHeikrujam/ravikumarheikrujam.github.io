@@ -1,3 +1,3 @@
 # Ravikumar Heikrujam — PostgreSQL DBA
 
-🌐 [View Portfolio](https://ravikumarheikrujam.github.io)
+<a href="https://ravikumarheikrujam.github.io" target="_blank">🌐 View Portfolio</a>
